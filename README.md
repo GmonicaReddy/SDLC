@@ -33,3 +33,43 @@ JOIN orders AS o ON o.customer_id = c.customer_id
 JOIN order_items AS oi ON oi.order_id = o.order_id
 JOIN products AS p ON p.product_id = oi.product_id
 JOIN payments AS pay ON pay.order_id = o.order_id;
+
+
+
+## prompts:
+prompt 1:
+Generate 5 synthetic e-commerce CSV files and save them inside the /data folder:
+
+1. customers.csv  
+2. products.csv  
+3. orders.csv  
+4. order_items.csv  
+5. payments.csv  
+
+Each file should have 20–50 rows of realistic sample data.  
+Create proper headers for each file.
+
+prompt 2:
+Create a Python script named ingest.py that:
+
+1. Creates a SQLite database named ecommerce.db  
+2. Creates tables for customers, products, orders, order_items, and payments  
+3. Reads each CSV file from the /data folder  
+4. Inserts all rows into the database  
+
+Use sqlite3 and pandas.  
+The script should run directly using "python3 ingest.py".
+
+prompt 3:
+Write an SQL query (SQLite syntax) that joins the following tables:
+- customers
+- orders
+- order_items
+- products
+- payments
+
+Output should include:
+customer_name, order_id, product_name, quantity, total_amount, payment_status.
+
+Return the final SQL query only.
+
