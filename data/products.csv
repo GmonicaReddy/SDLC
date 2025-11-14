@@ -1,0 +1,26 @@
+product_id,name,category,price,stock_qty,active
+PROD0001,Wireless Earbuds,Electronics,129.99,397,Y
+PROD0002,Smart Speaker,Electronics,89.99,434,Y
+PROD0003,4K Monitor,Electronics,329.00,152,Y
+PROD0004,Action Camera,Electronics,249.50,122,N
+PROD0005,Bluetooth Tracker,Electronics,29.95,96,N
+PROD0006,Air Purifier,Home,159.00,118,Y
+PROD0007,Robot Vacuum,Home,399.99,261,Y
+PROD0008,Espresso Machine,Home,549.00,472,Y
+PROD0009,Blender Pro,Home,189.50,251,Y
+PROD0010,Heated Blanket,Home,79.95,50,Y
+PROD0011,Camping Tent,Outdoors,229.00,72,Y
+PROD0012,Hiking Backpack,Outdoors,139.00,110,N
+PROD0013,Insulated Bottle,Outdoors,32.00,273,N
+PROD0014,Portable Grill,Outdoors,219.00,134,N
+PROD0015,Trail Shoes,Outdoors,118.00,487,Y
+PROD0016,Facial Cleanser,Beauty,24.00,109,N
+PROD0017,Serum Duo,Beauty,68.00,26,N
+PROD0018,Moisturizing Cream,Beauty,44.00,160,N
+PROD0019,Sunscreen SPF50,Beauty,28.00,171,N
+PROD0020,Aromatherapy Diffuser,Beauty,46.00,381,N
+PROD0021,Yoga Mat,Fitness,39.00,104,Y
+PROD0022,Adjustable Dumbbells,Fitness,299.00,176,Y
+PROD0023,Resistance Bands,Fitness,29.00,54,Y
+PROD0024,Foam Roller,Fitness,34.00,407,Y
+PROD0025,Fitness Tracker,Fitness,149.00,54,Y

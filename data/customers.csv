@@ -1,0 +1,31 @@
+customer_id,first_name,last_name,email,phone,city,state,signup_date,loyalty_tier
+CUST0001,Lucas,Patel,lucas.patel@example.com,(428) 342-2679,Nashville,TN,2022-09-08,Silver
+CUST0002,Chloe,Kim,chloe.kim@example.com,(232) 230-2535,Sacramento,CA,2023-03-09,Bronze
+CUST0003,Grace,Patel,grace.patel@example.com,(933) 865-9928,Orlando,FL,2022-07-23,Bronze
+CUST0004,Madison,Green,madison.green@example.com,(363) 914-7924,Austin,TX,2024-02-17,Bronze
+CUST0005,Mason,Allen,mason.allen@example.com,(294) 589-2584,Miami,FL,2022-04-15,Bronze
+CUST0006,Ella,Wright,ella.wright@example.com,(670) 749-3045,Seattle,WA,2024-01-18,Platinum
+CUST0007,Avery,Kim,avery.kim@example.com,(843) 833-6925,Orlando,FL,2022-10-28,Silver
+CUST0008,Olivia,Garcia,olivia.garcia@example.com,(496) 281-4814,Boston,MA,2024-03-02,Gold
+CUST0009,Avery,Green,avery.green@example.com,(573) 366-7065,Kansas City,MO,2023-10-13,Bronze
+CUST0010,Charlotte,Hernandez,charlotte.hernandez@example.com,(375) 746-5010,Salt Lake City,UT,2023-10-13,Bronze
+CUST0011,Avery,Green,avery.green@example.com,(901) 532-1916,Orlando,FL,2022-08-13,Bronze
+CUST0012,Liam,Nelson,liam.nelson@example.com,(267) 416-6155,Columbus,OH,2022-10-02,Bronze
+CUST0013,Owen,Collins,owen.collins@example.com,(471) 342-5040,Kansas City,MO,2022-05-27,Silver
+CUST0014,Chloe,Wright,chloe.wright@example.com,(797) 608-6930,Sacramento,CA,2023-03-15,Bronze
+CUST0015,Isabella,Morgan,isabella.morgan@example.com,(973) 248-2796,Minneapolis,MN,2022-04-04,Bronze
+CUST0016,Sophia,Stewart,sophia.stewart@example.com,(594) 590-8668,Salt Lake City,UT,2022-03-07,Silver
+CUST0017,Hudson,Reed,hudson.reed@example.com,(749) 968-5371,Chicago,IL,2023-11-30,Silver
+CUST0018,Sebastian,Smith,sebastian.smith@example.com,(361) 664-1053,Phoenix,AZ,2023-03-22,Platinum
+CUST0019,Benjamin,Morgan,benjamin.morgan@example.com,(308) 840-5889,San Diego,CA,2023-06-04,Gold
+CUST0020,Grace,Young,grace.young@example.com,(980) 365-9837,Atlanta,GA,2023-01-18,Platinum
+CUST0021,Luke,Reed,luke.reed@example.com,(700) 219-2832,Salt Lake City,UT,2022-11-28,Gold
+CUST0022,Evelyn,Scott,evelyn.scott@example.com,(780) 280-2403,Seattle,WA,2022-09-04,Silver
+CUST0023,Olivia,Murphy,olivia.murphy@example.com,(875) 686-3705,Atlanta,GA,2022-05-12,Bronze
+CUST0024,Wyatt,Allen,wyatt.allen@example.com,(947) 906-4295,Orlando,FL,2024-02-13,Silver
+CUST0025,Daniel,Turner,daniel.turner@example.com,(729) 662-2982,Kansas City,MO,2024-07-10,Bronze
+CUST0026,Olivia,Perez,olivia.perez@example.com,(767) 435-4608,Austin,TX,2023-08-26,Bronze
+CUST0027,Emma,King,emma.king@example.com,(232) 538-2160,Denver,CO,2024-07-16,Silver
+CUST0028,Charlotte,Cook,charlotte.cook@example.com,(335) 940-8744,Portland,OR,2023-07-07,Bronze
+CUST0029,Lily,Edwards,lily.edwards@example.com,(299) 874-8062,Portland,OR,2022-04-07,Bronze
+CUST0030,Scarlett,Morris,scarlett.morris@example.com,(869) 861-2612,Seattle,WA,2023-11-21,Bronze
